@@ -1,0 +1,21 @@
+# Java build output
+*.class
+out/
+target/
+build/
+.gradle/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Test output and logs
+test-results/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
